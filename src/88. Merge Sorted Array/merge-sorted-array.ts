@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+// https://leetcode.cn/problems/merge-sorted-array
 
 /**
  Do not return anything, modify nums1 in-place instead.
