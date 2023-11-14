@@ -1,11 +1,13 @@
 // https://leetcode.cn/problems/remove-element/
 
 export const removeElement = (nums: number[], val: number): number => {
-  let len = 0;
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] !== val) {
-      nums[len++] = nums[i];
+  let fast = 0;
+  let slow = 0;
+  while (fast < nums.length) {
+    if (nums[fast] !== val) {
+      nums[slow++] = nums[fast];
     }
+    fast++;
   }
-  return len;
+  return slow;
 };
