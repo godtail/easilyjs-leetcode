@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii
+
 export const maxProfit = (prices: number[]): number => {
   let maxProfit = 0;
 

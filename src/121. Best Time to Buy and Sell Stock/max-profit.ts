@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock
+
 export const maxProfit = (prices: number[]): number => {
   // 使用双指针
   let fast = 0;

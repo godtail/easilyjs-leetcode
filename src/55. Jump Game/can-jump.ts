@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/jump-game
+
 export const canJump = (nums: number[]): boolean => {
   let maxReach = 0;
 

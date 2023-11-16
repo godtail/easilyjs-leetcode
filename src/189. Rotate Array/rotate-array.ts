@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/rotate-array
+
 // 计算 x, y 的最大公约数
 const gcd = (x: number, y: number): number => (y ? gcd(y, x % y) : x);
 
