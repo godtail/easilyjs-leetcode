@@ -1,4 +1,4 @@
-import { mergeSortedArray } from './merge-sorted-array';
+import { mergeSortedArray } from './solution';
 
 describe('88. Merge Sorted Array', () => {
   it('test case 1', () => {
