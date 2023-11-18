@@ -1,4 +1,4 @@
-import { rotateArray } from './rotate-array';
+import { rotateArray } from './solution';
 
 describe('189. Rotate Array', () => {
   it('test case 1', () => {

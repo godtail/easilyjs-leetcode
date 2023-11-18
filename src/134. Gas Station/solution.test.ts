@@ -1,4 +1,4 @@
-import { canCompleteCircuit } from './can-complete-circuit';
+import { canCompleteCircuit } from './solution';
 
 describe('134. Gas Station', () => {
   it('test case 1', () => {

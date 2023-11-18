@@ -1,4 +1,4 @@
-import { removeElement } from './remove-element';
+import { removeElement } from './solution';
 
 describe('27. Remove Element', () => {
   it('test case 1', () => {

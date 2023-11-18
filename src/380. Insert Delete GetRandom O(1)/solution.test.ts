@@ -1,4 +1,4 @@
-import { RandomizedSet } from './randomized-set';
+import { RandomizedSet } from './solution';
 
 describe('380. Insert Delete GetRandom O(1)', () => {
   it('test case 1', () => {

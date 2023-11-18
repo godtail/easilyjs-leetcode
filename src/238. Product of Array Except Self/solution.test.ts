@@ -1,4 +1,4 @@
-import { productExceptSelf } from './product-except-self';
+import { productExceptSelf } from './solution';
 
 describe('238. Product of Array Except Self', () => {
   it('test case 1', () => {

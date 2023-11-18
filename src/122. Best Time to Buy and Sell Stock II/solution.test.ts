@@ -1,4 +1,4 @@
-import { maxProfit } from './max-profit';
+import { maxProfit } from './solution';
 
 describe('121. Best Time to Buy and Sell Stock', () => {
   it('test case 1', () => {

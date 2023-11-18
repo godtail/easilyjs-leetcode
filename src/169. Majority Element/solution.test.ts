@@ -1,4 +1,4 @@
-import { majorityElement } from './majority-element';
+import { majorityElement } from './solution';
 
 describe('169. Majority Element', () => {
   it('test case 1', () => {

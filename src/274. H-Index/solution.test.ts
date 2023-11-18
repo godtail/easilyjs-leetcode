@@ -1,4 +1,4 @@
-import { hIndex } from './h-index';
+import { hIndex } from './solution';
 
 describe('274. H-Index', () => {
   it('test case 1', () => {

@@ -1,4 +1,4 @@
-import { jump } from './jump';
+import { jump } from './solution';
 
 describe('45. Jump Game II', () => {
   it('test case 1', () => {
