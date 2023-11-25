@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "esnext",
-    "target": "es5",
+    "target": "es2015",
     "lib": ["es2020", "dom"],
     "jsx": "react",
     "moduleResolution": "node",

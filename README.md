@@ -42,7 +42,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [ ] 48. Rotate Image
 - [ ] 73. Set Matrix Zeroes
 - [ ] 289. Game of Life
-- [ ] 383. Ransom Note
+- [x] 383. Ransom Note
 - [ ] 205. Isomorphic Strings
 - [ ] 290. Word Pattern
 - [ ] 242. Valid Anagram
