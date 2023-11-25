@@ -43,7 +43,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [ ] 73. Set Matrix Zeroes
 - [ ] 289. Game of Life
 - [x] 383. Ransom Note
-- [ ] 205. Isomorphic Strings
+- [x] 205. Isomorphic Strings
 - [ ] 290. Word Pattern
 - [ ] 242. Valid Anagram
 - [ ] 49. Group Anagrams
