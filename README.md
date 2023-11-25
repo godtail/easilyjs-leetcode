@@ -38,7 +38,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [ ] 30. Substring with Concatenation of All Words
 - [ ] 76. Minimum Window Substring
 - [x] 36. Valid Sudoku
-- [ ] 54. Spiral Matrix
+- [x] 54. Spiral Matrix
 - [ ] 48. Rotate Image
 - [ ] 73. Set Matrix Zeroes
 - [ ] 289. Game of Life
