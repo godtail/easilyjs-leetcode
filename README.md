@@ -37,7 +37,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 3. Longest Substring Without Repeating Characters
 - [ ] 30. Substring with Concatenation of All Words
 - [ ] 76. Minimum Window Substring
-- [ ] 36. Valid Sudoku
+- [x] 36. Valid Sudoku
 - [ ] 54. Spiral Matrix
 - [ ] 48. Rotate Image
 - [ ] 73. Set Matrix Zeroes
