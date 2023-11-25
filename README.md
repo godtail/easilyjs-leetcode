@@ -45,7 +45,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 383. Ransom Note
 - [x] 205. Isomorphic Strings
 - [x] 290. Word Pattern
-- [ ] 242. Valid Anagram
+- [x] 242. Valid Anagram
 - [ ] 49. Group Anagrams
 - [ ] 1. Two Sum
 - [ ] 202. Happy Number
