@@ -44,7 +44,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [ ] 289. Game of Life
 - [x] 383. Ransom Note
 - [x] 205. Isomorphic Strings
-- [ ] 290. Word Pattern
+- [x] 290. Word Pattern
 - [ ] 242. Valid Anagram
 - [ ] 49. Group Anagrams
 - [ ] 1. Two Sum
