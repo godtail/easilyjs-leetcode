@@ -50,7 +50,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 1. Two Sum
 - [x] 202. Happy Number
 - [x] 219. Contains Duplicate II
-- [ ] 128. Longest Consecutive Sequence
+- [x] 128. Longest Consecutive Sequence
 - [ ] 228. Summary Ranges
 - [ ] 56. Merge Intervals
 - [ ] 57. Insert Interval

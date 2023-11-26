@@ -19,11 +19,11 @@ export const isHappy = (n: number): boolean => {
   // 通过快乐数的计算算法，只会出现两种情况
   // 1. 最后的计算结果为 1
   // 2. 最后计算结果进入循环
-  // 所以我们可以使用一个 hash map 来记录计算过的值，如果再次出现，说明进入了循环
-  const map = new Map<number, boolean>();
+  // 所以我们可以使用一个 set 来记录计算过的值，如果再次出现，说明进入了循环
+  const existSet = new Set<number>();
 
-  while (n !== 1 && !map.has(n)) {
-    map.set(n, true);
+  while (n !== 1 && !existSet.has(n)) {
+    existSet.add(n);
     n = calculateNext(n);
   }
 
