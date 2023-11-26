@@ -48,7 +48,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 242. Valid Anagram
 - [x] 49. Group Anagrams
 - [x] 1. Two Sum
-- [ ] 202. Happy Number
+- [x] 202. Happy Number
 - [ ] 219. Contains Duplicate II
 - [ ] 128. Longest Consecutive Sequence
 - [ ] 228. Summary Ranges
