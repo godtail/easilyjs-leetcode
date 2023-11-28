@@ -52,7 +52,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 219. Contains Duplicate II
 - [x] 128. Longest Consecutive Sequence
 - [x] 228. Summary Ranges
-- [ ] 56. Merge Intervals
+- [x] 56. Merge Intervals
 - [ ] 57. Insert Interval
 - [ ] 452. Minimum Number of Arrows to Burst Balloons
 - [ ] 20. Valid Parentheses
