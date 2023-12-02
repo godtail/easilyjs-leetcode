@@ -55,7 +55,7 @@ https://leetcode.cn/studyplan/top-interview-150/
 - [x] 56. Merge Intervals
 - [x] 57. Insert Interval
 - [x] 452. Minimum Number of Arrows to Burst Balloons
-- [ ] 20. Valid Parentheses
+- [x] 20. Valid Parentheses
 - [ ] 71. Simplify Path
 - [ ] 155. Min Stack
 - [ ] 150. Evaluate Reverse Polish Notation
